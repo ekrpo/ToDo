@@ -1,0 +1,11 @@
+footer{
+    width: 100vw;
+    min-height: 50px;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(90deg, rgb(40, 122, 247), rgb(45, 77, 221));
+    color: white;
+    border-radius: 15px 15px 0px 0px;
+}
